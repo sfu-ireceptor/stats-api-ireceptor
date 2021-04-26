@@ -6,8 +6,9 @@ The code in this repo has been tested with a Python virtual environment (see req
 1. Ensure PIP is installed in your computer. 
 2. Clone this repository
  
-  `git clone https://github.com/sfu-ireceptor/stats-api-ireceptor.git`
-  `cd stats-api-ireceptor`
+  `git clone https://github.com/sfu-ireceptor/stats-api-ireceptor.git
+  
+  cd stats-api-ireceptor`
   
 3. Create a directory `stats-env`
 
@@ -23,8 +24,8 @@ The code in this repo has been tested with a Python virtual environment (see req
 
 6. Install dependencies
 
-  `cd ..`
-  `pip install -r requirements.txt`
+  `cd ..
+   pip install -r requirements.txt`
   
 7. To exit the environment
 
